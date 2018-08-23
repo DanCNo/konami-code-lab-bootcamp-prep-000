@@ -34,8 +34,6 @@ function init() {
   }
 }
 
-/*const body = document.getElementById('body');
+const body = document.getElementById('body');
 
-body.addEventListener('keydown', function(event) {
-  
-})*/
+body.addEventListener('keydown', onKeyDownHandler)
