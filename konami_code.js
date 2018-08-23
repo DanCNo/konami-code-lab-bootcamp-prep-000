@@ -32,8 +32,10 @@ function init() {
       }
     
   }
-}
-
 const body = document.body;
 
-body.addEventListener('keydown', onKeyDownHandler)
+body.addEventListener('keydown', onKeyDownHandler)  
+  
+}
+
+
