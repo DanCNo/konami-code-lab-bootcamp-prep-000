@@ -34,4 +34,4 @@ function init() {
   }
 }
 
-const body = 
+const body = document.
