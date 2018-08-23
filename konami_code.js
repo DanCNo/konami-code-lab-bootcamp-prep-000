@@ -36,4 +36,4 @@ function init() {
 
 const body = document.getElementById('body');
 
-body.addEventListener('keydown', function)
+body.addEventListener('keydown', function(event))
