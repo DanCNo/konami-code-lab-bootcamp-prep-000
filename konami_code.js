@@ -34,4 +34,4 @@ function init() {
   }
 }
 
-const body = document.getElementById()
+const body = document.getElementById('body')
