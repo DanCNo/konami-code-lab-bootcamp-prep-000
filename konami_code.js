@@ -36,4 +36,4 @@ function init() {
 
 const body = document.getElementById('body');
 
-body.main
+body.addEvent
